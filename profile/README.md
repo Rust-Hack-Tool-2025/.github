@@ -3,8 +3,6 @@
 Upgrade your **Rust** gameplay with powerful tools for combat precision, enhanced awareness, and optimized survival. Perfect for dominating every raid and encounter.
 
 ---
-
-[![arcane-rust-s2.webp](https://i.postimg.cc/NF8vQWYC/arcane-rust-s2.webp)](https://postimg.cc/xNd4RpXL)
 [![chrome-Pawt-BRl-Tk3.png](https://i.postimg.cc/bNqKQVq8/chrome-Pawt-BRl-Tk3.png)](https://postimg.cc/F1nWvZfn)
 
 ## 🔹 FEATURES  
